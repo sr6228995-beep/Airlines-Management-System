@@ -4,8 +4,8 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 
-public class AddCustomer extends JFrame implements ActionListener{
-    
+  public class AddCustomer extends JFrame implements ActionListener{
+
     JTextField tfname, tfphone, tfaadhar, tfnationality, tfaddress;
     JRadioButton rbmale, rbfemale;
     
