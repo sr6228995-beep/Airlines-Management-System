@@ -3,7 +3,7 @@ package airlinemanagementsystem;
 import java.sql.*;
 
 public class Conn {
-    //
+
     Connection c;
     Statement s;
     

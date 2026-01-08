@@ -8,7 +8,7 @@ import net.proteanit.sql.DbUtils;
 public class FlightInfo extends JFrame{
     
     public FlightInfo() {
-        //
+        
         getContentPane().setBackground(Color.WHITE);
         setLayout(null);
         

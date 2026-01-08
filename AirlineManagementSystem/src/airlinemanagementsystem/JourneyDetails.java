@@ -12,7 +12,7 @@ public class JourneyDetails extends JFrame implements ActionListener{
     JButton show;
     
     public JourneyDetails() {
-        //
+
         getContentPane().setBackground(Color.WHITE);
         setLayout(null);
         

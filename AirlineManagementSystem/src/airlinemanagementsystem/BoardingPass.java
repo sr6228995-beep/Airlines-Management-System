@@ -7,7 +7,7 @@ import java.sql.*;
 import java.util.*;
 
 public class BoardingPass extends JFrame implements ActionListener{
-    //
+
     JTextField tfpnr;
     JLabel tfname, tfnationality, lblsrc, lbldest, labelfname, labelfcode, labeldate;
     JButton fetchButton;
